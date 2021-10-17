@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1633816195,
+	"version": 1634459403,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,7 +8,7 @@
 		"images/background.png",
 		"images/player-sheet0.png",
 		"images/bullet-sheet0.png",
-		"images/enemy-sheet0.png",
+		"images/monster-sheet0.png",
 		"images/health.png",
 		"images/explosion-sheet0.png",
 		"images/medkit-sheet0.png",
